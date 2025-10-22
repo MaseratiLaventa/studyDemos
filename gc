@@ -1,0 +1,1 @@
+-Xms1g -Xmx1g -Xss512k -XX:MaxGCPauseMillis=50 -XX:MaxDirectMemorySize=256m -Xlog:gc*:stdout:tags,time,uptime,level
